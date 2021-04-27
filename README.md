@@ -1,3 +1,3 @@
 # WebKit
 
-シンプルすぎるWebKit Playground
+ Playgroundsでネットサーフィンをしたい！
